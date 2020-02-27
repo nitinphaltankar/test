@@ -12,7 +12,8 @@ var config = {
 	database: {
 		//url: 'mongodb://localhost:27017/gramsetudb'
 		//url: 'mongodb://admin:Password123@ds153766.mlab.com:53766/heroku_ssbjmgrf'
-		url: 'mongodb://localhost:27017/safexdb'
+		//url: 'mongodb://localhost:27017/safexdb'
+		url: 'mongodb://admin:Password123@ds1fedf766.mlab.com:53766/heroku_ssbjmgrf'
 	},
 	server: {
 		host: '127.0.0.1',
